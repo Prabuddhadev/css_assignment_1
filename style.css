@@ -1,0 +1,23 @@
+*
+{
+    color: rgb(145, 13, 13);
+}
+h1
+{
+    color: red;
+}
+h3
+{
+    color: rgb(202, 86, 86);
+}
+span
+{
+    background-color: yellow;
+}
+#a{
+    letter-spacing: 3px;
+}
+a{
+    background-color: yellow;
+    text-decoration: none;
+}
